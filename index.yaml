@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2024-06-06T13:50:01.376518-04:00"
+entries:
+  demo-charts-test:
+  - apiVersion: v2
+    appVersion: "1.16.0"
+    created: "2024-06-06T13:43:45.578374-04:00"
+    description: A Helm chart for Kubernetes
+    digest: "some-sha256-digest"
+    name: demo-charts-test
+    urls:
+    - https://migue-jr.github.io/repohelmchart/charts/demo-charts-test-0.1.0.tgz
+    version: "0.1.0"
+generated: "2024-06-06T13:43:45.578374-04:00"
+
